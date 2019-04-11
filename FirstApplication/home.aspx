@@ -21,8 +21,8 @@
 
             &nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Reset" />
-
         </div>
+        <hr />
     </form>
 </body>
 </html>
